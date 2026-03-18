@@ -1,8 +1,8 @@
 package com.mysite.sbb3.answer;
 
-import com.mysite.sbb.DataNotFoundException;
-import com.mysite.sbb.question.Question;
-import com.mysite.sbb.user.SiteUser;
+import com.mysite.sbb3.DataNotFoundException;
+import com.mysite.sbb3.question.Question;
+import com.mysite.sbb3.user.SiteUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
